@@ -187,7 +187,7 @@ Registered Investment Advisor (RIA), Cash Investments, Developed International M
       <dependency>
         <groupId>javax.money</groupId>
         <artifactId>money-api</artifactId>
-        <version>1.0.3</version>
+        <version>1.1</version>
       </dependency>
 
       <dependency>
