@@ -219,7 +219,7 @@ Registered Investment Advisor (RIA), Cash Investments, Developed International M
       <dependency>
         <groupId>com.google.guava</groupId>
         <artifactId>guava</artifactId>
-        <version>25.0-jre</version>
+        <version>30.0-jre</version>
       </dependency>
 
       <dependency>
