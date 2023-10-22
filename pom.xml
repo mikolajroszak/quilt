@@ -199,7 +199,7 @@ Registered Investment Advisor (RIA), Cash Investments, Developed International M
       <dependency>
         <groupId>junit</groupId>
         <artifactId>junit</artifactId>
-        <version>4.12</version>
+        <version>4.13.2</version>
         <scope>test</scope>
       </dependency>
 
