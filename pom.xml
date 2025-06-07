@@ -213,13 +213,13 @@ Registered Investment Advisor (RIA), Cash Investments, Developed International M
       <dependency>
         <groupId>com.fasterxml.jackson.core</groupId>
         <artifactId>jackson-databind</artifactId>
-        <version>2.9.5</version>
+        <version>2.12.7.1</version>
       </dependency>
 
       <dependency>
         <groupId>com.google.guava</groupId>
         <artifactId>guava</artifactId>
-        <version>25.0-jre</version>
+        <version>32.0.0-jre</version>
       </dependency>
 
       <dependency>
